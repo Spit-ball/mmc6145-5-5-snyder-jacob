@@ -1,0 +1,59 @@
+:root {
+  --primaryLight: #ff6929;
+  --primary: #ff4d00;
+  --primaryClear: #ff4d00dd;
+  --space: 12px;
+  --grey: #b6a49d;
+  --greyClear: #b6a49d33;
+  --black: #1c1918;
+  --maxPageWidth: 1200px;
+}
+
+.app-container {
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+}
+
+body {
+  padding: 0;
+  margin: 0;
+  color: var(--black);
+}
+
+button, .button {
+  background-color: var(--primary);
+  color: white;
+  padding: var(--space) calc(var(--space) * 2);
+  border: none;
+  border-radius: 4px;
+  border: 1px solid var(--primary);
+  transition: 300ms ease;
+  text-decoration: none;
+  cursor: pointer;
+}
+
+:is(button, .button):hover {
+  color: white;
+  background-color: var(--primaryLight);
+}
+
+input {
+  border-radius: 4px;
+  border: 1px solid var(--grey);
+  line-height: 1;
+  padding: calc(var(--space));
+  box-sizing: border-box;
+}
+
+input:is(:focus, :active) {
+  outline-color: var(--grey);
+}
+
+a {
+  transition: 300ms ease;
+  color: var(--primary);
+}
+a:is(:focus, :active, :hover){
+  color: var(--primaryLight);
+}

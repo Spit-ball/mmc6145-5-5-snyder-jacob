@@ -1,0 +1,42 @@
+.container {
+  max-width: 1200px;
+  margin: auto;
+}
+
+.container h1 {
+  font-size: 4rem;
+  text-align: center;
+  margin: calc(var(--space) * 8) 0;
+}
+
+.foodImg {
+  width: 100%;
+  max-width: 1200px;
+  height: auto;
+}
+
+.jumbo {
+  position: relative;
+  margin-bottom: calc(var(--space) * 8);
+}
+
+.jumbo p {
+  position: absolute;
+  background-color: var(--primaryClear);
+  color: white;
+  width: 100%;
+  bottom: 40px;
+  margin: 0;
+  text-align: center;
+  padding: calc(var(--space) * 4) calc(var(--space) * 2);
+  box-sizing: border-box;
+  font-size: 2rem;
+}
+
+.goSearch {
+  background-color: var(--greyClear);
+  margin-bottom: calc(var(--space) * 8);
+  text-align: center;
+  padding: calc(var(--space) * 8) 0;
+  font-size: 2rem;
+}

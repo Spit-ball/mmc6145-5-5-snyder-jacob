@@ -1,0 +1,44 @@
+.container {
+  max-width: var(--maxPageWidth);
+  margin: 0 auto;
+  line-height: 2;
+  padding: 0 calc(var(--space) * 4)
+}
+
+.container h1 {
+  margin: calc(var(--space) * 6) 0;
+}
+
+.container :is(h1, h2, h3) {
+  text-align: center;
+}
+
+.recipeImg {
+  margin: 0 auto;
+  display: block;
+  width: 100%;
+  max-width: 556px;
+  height: auto;
+}
+
+.return {
+  display: block;
+  margin: calc(var(--space) * 4) 0;
+  cursor: pointer;
+}
+
+.notes, .notFound, .return {
+  text-align: center;
+}
+
+.notes, .instructions, .ingredients, .description {
+  max-width: 600px;
+  margin: 0 auto;
+}
+
+.infoGroup {
+  display: flex;
+  justify-content: center;
+  align-items: flex-start;
+  flex-wrap: wrap;
+}

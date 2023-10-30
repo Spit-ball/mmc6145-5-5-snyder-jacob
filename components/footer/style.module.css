@@ -1,0 +1,6 @@
+.footer {
+  margin-top: auto;
+  margin-bottom: calc(var(--space) * 8);
+  padding-top: calc(var(--space) * 8);
+  text-align: center;
+}

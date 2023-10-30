@@ -1,0 +1,67 @@
+{
+  "results": [
+    {
+      "id": 715467,
+      "title": "Turkey Pot Pie",
+      "image": "https://spoonacular.com/recipeImages/715467-312x231.jpg",
+      "imageType": "jpg"
+    },
+    {
+      "id": 664011,
+      "title": "Turkey Burgers",
+      "image": "https://spoonacular.com/recipeImages/664011-312x231.jpg",
+      "imageType": "jpg"
+    },
+    {
+      "id": 1095992,
+      "title": "Turkey Ranch BLT",
+      "image": "https://spoonacular.com/recipeImages/1095992-312x231.jpg",
+      "imageType": "jpg"
+    },
+    {
+      "id": 664014,
+      "title": "Turkey Croquettes",
+      "image": "https://spoonacular.com/recipeImages/664014-312x231.jpg",
+      "imageType": "jpg"
+    },
+    {
+      "id": 511707,
+      "title": "Turkey Kale Tacos",
+      "image": "https://spoonacular.com/recipeImages/511707-312x231.jpg",
+      "imageType": "jpg"
+    },
+    {
+      "id": 664030,
+      "title": "Turkey Enchiladas",
+      "image": "https://spoonacular.com/recipeImages/664030-312x231.jpg",
+      "imageType": "jpg"
+    },
+    {
+      "id": 664037,
+      "title": "Turkey Kofta Pitas",
+      "image": "https://spoonacular.com/recipeImages/664037-312x231.jpg",
+      "imageType": "jpg"
+    },
+    {
+      "id": 664026,
+      "title": "Turkey Enchilada Pie",
+      "image": "https://spoonacular.com/recipeImages/664026-312x231.jpg",
+      "imageType": "jpg"
+    },
+    {
+      "id": 664025,
+      "title": "Turkey Enchilada Bake",
+      "image": "https://spoonacular.com/recipeImages/664025-312x231.jpg",
+      "imageType": "jpg"
+    },
+    {
+      "id": 1096267,
+      "title": "Turkey Burgers with Slaw",
+      "image": "https://spoonacular.com/recipeImages/1096267-312x231.jpg",
+      "imageType": "jpg"
+    }
+  ],
+  "offset": 0,
+  "number": 10,
+  "totalResults": 90
+}

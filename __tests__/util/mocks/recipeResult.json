@@ -1,0 +1,627 @@
+{
+  "vegetarian": false,
+  "vegan": false,
+  "glutenFree": false,
+  "dairyFree": false,
+  "veryHealthy": false,
+  "cheap": false,
+  "veryPopular": false,
+  "sustainable": false,
+  "lowFodmap": false,
+  "weightWatcherSmartPoints": 19,
+  "gaps": "no",
+  "preparationMinutes": -1,
+  "cookingMinutes": -1,
+  "aggregateLikes": 1,
+  "healthScore": 25,
+  "creditsText": "Foodista.com – The Cooking Encyclopedia Everyone Can Edit",
+  "license": "CC BY 3.0",
+  "sourceName": "Foodista",
+  "pricePerServing": 356.46,
+  "extendedIngredients": [
+    {
+      "id": 93727,
+      "aisle": "Pasta and Rice;Refrigerated;Frozen",
+      "image": "tortellini-isolated.jpg",
+      "consistency": "SOLID",
+      "name": "tortellini",
+      "nameClean": "cooked cheese tortellini",
+      "original": "1 pound fresh tortellini",
+      "originalName": "fresh tortellini",
+      "amount": 1,
+      "unit": "pound",
+      "meta": [
+        "fresh"
+      ],
+      "measures": {
+        "us": {
+          "amount": 1,
+          "unitShort": "lb",
+          "unitLong": "pound"
+        },
+        "metric": {
+          "amount": 453.592,
+          "unitShort": "g",
+          "unitLong": "grams"
+        }
+      }
+    },
+    {
+      "id": 11282,
+      "aisle": "Produce",
+      "image": "brown-onion.png",
+      "consistency": "SOLID",
+      "name": "onion",
+      "nameClean": "onion",
+      "original": "1 medium onion",
+      "originalName": "onion",
+      "amount": 1,
+      "unit": "medium",
+      "meta": [],
+      "measures": {
+        "us": {
+          "amount": 1,
+          "unitShort": "medium",
+          "unitLong": "medium"
+        },
+        "metric": {
+          "amount": 1,
+          "unitShort": "medium",
+          "unitLong": "medium"
+        }
+      }
+    },
+    {
+      "id": 11215,
+      "aisle": "Produce",
+      "image": "garlic.png",
+      "consistency": "SOLID",
+      "name": "garlic cloves",
+      "nameClean": "garlic",
+      "original": "3 garlic cloves",
+      "originalName": "garlic cloves",
+      "amount": 3,
+      "unit": "",
+      "meta": [],
+      "measures": {
+        "us": {
+          "amount": 3,
+          "unitShort": "",
+          "unitLong": ""
+        },
+        "metric": {
+          "amount": 3,
+          "unitShort": "",
+          "unitLong": ""
+        }
+      }
+    },
+    {
+      "id": 11821,
+      "aisle": "Produce",
+      "image": "red-pepper.jpg",
+      "consistency": "SOLID",
+      "name": "bell peppers",
+      "nameClean": "red pepper",
+      "original": "4 red bell peppers",
+      "originalName": "red bell peppers",
+      "amount": 4,
+      "unit": "",
+      "meta": [
+        "red"
+      ],
+      "measures": {
+        "us": {
+          "amount": 4,
+          "unitShort": "",
+          "unitLong": ""
+        },
+        "metric": {
+          "amount": 4,
+          "unitShort": "",
+          "unitLong": ""
+        }
+      }
+    },
+    {
+      "id": 4053,
+      "aisle": "Oil, Vinegar, Salad Dressing",
+      "image": "olive-oil.jpg",
+      "consistency": "LIQUID",
+      "name": "olive oil",
+      "nameClean": "olive oil",
+      "original": "2 tablespoons olive oil",
+      "originalName": "olive oil",
+      "amount": 2,
+      "unit": "tablespoons",
+      "meta": [],
+      "measures": {
+        "us": {
+          "amount": 2,
+          "unitShort": "Tbsps",
+          "unitLong": "Tbsps"
+        },
+        "metric": {
+          "amount": 2,
+          "unitShort": "Tbsps",
+          "unitLong": "Tbsps"
+        }
+      }
+    },
+    {
+      "id": 2027,
+      "aisle": "Produce;Spices and Seasonings",
+      "image": "oregano.jpg",
+      "consistency": "SOLID",
+      "name": "oregano",
+      "nameClean": "oregano",
+      "original": "1 teaspoon dried oregano",
+      "originalName": "dried oregano",
+      "amount": 1,
+      "unit": "teaspoon",
+      "meta": [
+        "dried"
+      ],
+      "measures": {
+        "us": {
+          "amount": 1,
+          "unitShort": "tsp",
+          "unitLong": "teaspoon"
+        },
+        "metric": {
+          "amount": 1,
+          "unitShort": "tsp",
+          "unitLong": "teaspoon"
+        }
+      }
+    },
+    {
+      "id": 10311529,
+      "aisle": "Produce",
+      "image": "cherry-tomatoes.png",
+      "consistency": "SOLID",
+      "name": "cherry tomatoes",
+      "nameClean": "cherry tomato",
+      "original": "7 oz cherry tomatoes",
+      "originalName": "cherry tomatoes",
+      "amount": 7,
+      "unit": "oz",
+      "meta": [],
+      "measures": {
+        "us": {
+          "amount": 7,
+          "unitShort": "oz",
+          "unitLong": "ounces"
+        },
+        "metric": {
+          "amount": 198.447,
+          "unitShort": "g",
+          "unitLong": "grams"
+        }
+      }
+    },
+    {
+      "id": 1019,
+      "aisle": "Cheese",
+      "image": "feta.png",
+      "consistency": "SOLID",
+      "name": "feta",
+      "nameClean": "feta cheese",
+      "original": "4 oz feta",
+      "originalName": "feta",
+      "amount": 4,
+      "unit": "oz",
+      "meta": [],
+      "measures": {
+        "us": {
+          "amount": 4,
+          "unitShort": "oz",
+          "unitLong": "ounces"
+        },
+        "metric": {
+          "amount": 113.398,
+          "unitShort": "g",
+          "unitLong": "grams"
+        }
+      }
+    },
+    {
+      "id": 1011026,
+      "aisle": "Cheese",
+      "image": "cheddar-cheese.png",
+      "consistency": "SOLID",
+      "name": "cheese",
+      "nameClean": "shredded cheese",
+      "original": "4.5 oz shredded cheese",
+      "originalName": "shredded cheese",
+      "amount": 4.5,
+      "unit": "oz",
+      "meta": [
+        "shredded"
+      ],
+      "measures": {
+        "us": {
+          "amount": 4.5,
+          "unitShort": "oz",
+          "unitLong": "ounces"
+        },
+        "metric": {
+          "amount": 127.573,
+          "unitShort": "g",
+          "unitLong": "grams"
+        }
+      }
+    },
+    {
+      "id": 1102047,
+      "aisle": "Spices and Seasonings",
+      "image": "salt-and-pepper.jpg",
+      "consistency": "SOLID",
+      "name": "salt and pepper",
+      "nameClean": "salt and pepper",
+      "original": "salt and pepper",
+      "originalName": "salt and pepper",
+      "amount": 4,
+      "unit": "servings",
+      "meta": [],
+      "measures": {
+        "us": {
+          "amount": 4,
+          "unitShort": "servings",
+          "unitLong": "servings"
+        },
+        "metric": {
+          "amount": 4,
+          "unitShort": "servings",
+          "unitLong": "servings"
+        }
+      }
+    },
+    {
+      "id": 2044,
+      "aisle": "Produce",
+      "image": "fresh-basil.jpg",
+      "consistency": "SOLID",
+      "name": "basil",
+      "nameClean": "fresh basil",
+      "original": "basil, optional",
+      "originalName": "basil, optional",
+      "amount": 4,
+      "unit": "servings",
+      "meta": [],
+      "measures": {
+        "us": {
+          "amount": 4,
+          "unitShort": "servings",
+          "unitLong": "servings"
+        },
+        "metric": {
+          "amount": 4,
+          "unitShort": "servings",
+          "unitLong": "servings"
+        }
+      }
+    }
+  ],
+  "id": 1095873,
+  "title": "Cheesy Tortellini Casserole",
+  "readyInMinutes": 45,
+  "servings": 4,
+  "sourceUrl": "https://www.foodista.com/recipe/2D4LM4SP/cheesy-tortellini-casserole",
+  "image": "https://spoonacular.com/recipeImages/1095873-556x370.jpg",
+  "imageType": "jpg",
+  "summary": "Cheesy Tortellini Casserole is a main course that serves 4. One serving contains <b>647 calories</b>, <b>30g of protein</b>, and <b>30g of fat</b>. For <b>$3.56 per serving</b>, this recipe <b>covers 25%</b> of your daily requirements of vitamins and minerals. 1 person has made this recipe and would make it again. This recipe from Foodista requires oregano, feta, garlic cloves, and red bell peppers. It will be a hit at your <b>Winter</b> event. From preparation to the plate, this recipe takes roughly <b>45 minutes</b>. Overall, this recipe earns a <b>pretty good spoonacular score of 76%</b>. If you like this recipe, take a look at these similar recipes: <a href=\"https://spoonacular.com/recipes/cheesy-tortellini-casserole-627080\">Cheesy Tortellini Casserole</a>, <a href=\"https://spoonacular.com/recipes/cheesy-sausage-tortellini-1260121\">Cheesy Sausage Tortellini</a>, and <a href=\"https://spoonacular.com/recipes/one-pot-cheesy-tortellini-866329\">One-Pot Cheesy Tortellini</a>.",
+  "cuisines": [],
+  "dishTypes": [
+    "side dish",
+    "lunch",
+    "main course",
+    "main dish",
+    "dinner"
+  ],
+  "diets": [],
+  "occasions": [
+    "fall",
+    "winter"
+  ],
+  "winePairing": {
+    "pairedWines": [],
+    "pairingText": "",
+    "productMatches": []
+  },
+  "instructions": "<ol><li>Preheat the oven to 180 degrees Celsius / 360 degrees Fahrenheit.</li><li>Cook the pasta according to the packet's instructions. Drain well and put the pasta back in the pan.</li><li>Chop the onion, garlic cloves, and bell peppers very finely. </li><li>Heat the oil in a large pan, add the onion and cook until translucent. </li><li>Add the garlic and the peppers and cook about 5 minutes until the vegetables are soft. </li><li>Add the salt, pepper and oregano.</li><li>Chop the tomatoes and add them to the pan along with the vegetable stock. </li><li>Let cook for another 5 minutes.</li><li>Add the cooked sauce to the pasta in the pan, add the crumbled feta and mix well. </li><li>Adjust the taste with more salt and pepper if necessary.</li><li>Brush a casserole dish with a little bit of olive oil. </li><li>Transfer the pasta mixture to the casserole dish and sprinkle everything with the grated cheese.</li><li>Bake for about 20 minutes or until golden brown and heated through. </li><li>Garnish with some fresh basil if you like and serve.</li></ol>",
+  "analyzedInstructions": [
+    {
+      "name": "",
+      "steps": [
+        {
+          "number": 1,
+          "step": "Preheat the oven to 180 degrees Celsius / 360 degrees Fahrenheit.Cook the pasta according to the packet's instructions.",
+          "ingredients": [
+            {
+              "id": 20420,
+              "name": "pasta",
+              "localizedName": "pasta",
+              "image": "fusilli.jpg"
+            }
+          ],
+          "equipment": [
+            {
+              "id": 404784,
+              "name": "oven",
+              "localizedName": "oven",
+              "image": "oven.jpg",
+              "temperature": {
+                "number": 180,
+                "unit": "Celsius"
+              }
+            }
+          ]
+        },
+        {
+          "number": 2,
+          "step": "Drain well and put the pasta back in the pan.Chop the onion, garlic cloves, and bell peppers very finely.",
+          "ingredients": [
+            {
+              "id": 10211215,
+              "name": "whole garlic cloves",
+              "localizedName": "whole garlic cloves",
+              "image": "garlic.jpg"
+            },
+            {
+              "id": 10211821,
+              "name": "bell pepper",
+              "localizedName": "bell pepper",
+              "image": "bell-pepper-orange.png"
+            },
+            {
+              "id": 11282,
+              "name": "onion",
+              "localizedName": "onion",
+              "image": "brown-onion.png"
+            },
+            {
+              "id": 20420,
+              "name": "pasta",
+              "localizedName": "pasta",
+              "image": "fusilli.jpg"
+            }
+          ],
+          "equipment": [
+            {
+              "id": 404645,
+              "name": "frying pan",
+              "localizedName": "frying pan",
+              "image": "pan.png"
+            }
+          ]
+        },
+        {
+          "number": 3,
+          "step": "Heat the oil in a large pan, add the onion and cook until translucent.",
+          "ingredients": [
+            {
+              "id": 11282,
+              "name": "onion",
+              "localizedName": "onion",
+              "image": "brown-onion.png"
+            },
+            {
+              "id": 4582,
+              "name": "cooking oil",
+              "localizedName": "cooking oil",
+              "image": "vegetable-oil.jpg"
+            }
+          ],
+          "equipment": [
+            {
+              "id": 404645,
+              "name": "frying pan",
+              "localizedName": "frying pan",
+              "image": "pan.png"
+            }
+          ]
+        },
+        {
+          "number": 4,
+          "step": "Add the garlic and the peppers and cook about 5 minutes until the vegetables are soft.",
+          "ingredients": [
+            {
+              "id": 11583,
+              "name": "vegetable",
+              "localizedName": "vegetable",
+              "image": "mixed-vegetables.png"
+            },
+            {
+              "id": 10111333,
+              "name": "peppers",
+              "localizedName": "peppers",
+              "image": "green-pepper.jpg"
+            },
+            {
+              "id": 11215,
+              "name": "garlic",
+              "localizedName": "garlic",
+              "image": "garlic.png"
+            }
+          ],
+          "equipment": [],
+          "length": {
+            "number": 5,
+            "unit": "minutes"
+          }
+        },
+        {
+          "number": 5,
+          "step": "Add the salt, pepper and oregano.Chop the tomatoes and add them to the pan along with the vegetable stock.",
+          "ingredients": [
+            {
+              "id": 6615,
+              "name": "vegetable stock",
+              "localizedName": "vegetable stock",
+              "image": "chicken-broth.png"
+            },
+            {
+              "id": 11529,
+              "name": "tomato",
+              "localizedName": "tomato",
+              "image": "tomato.png"
+            },
+            {
+              "id": 2027,
+              "name": "oregano",
+              "localizedName": "oregano",
+              "image": "oregano.jpg"
+            },
+            {
+              "id": 1002030,
+              "name": "pepper",
+              "localizedName": "pepper",
+              "image": "pepper.jpg"
+            },
+            {
+              "id": 2047,
+              "name": "salt",
+              "localizedName": "salt",
+              "image": "salt.jpg"
+            }
+          ],
+          "equipment": [
+            {
+              "id": 404645,
+              "name": "frying pan",
+              "localizedName": "frying pan",
+              "image": "pan.png"
+            }
+          ]
+        },
+        {
+          "number": 6,
+          "step": "Let cook for another 5 minutes.",
+          "ingredients": [],
+          "equipment": [],
+          "length": {
+            "number": 5,
+            "unit": "minutes"
+          }
+        },
+        {
+          "number": 7,
+          "step": "Add the cooked sauce to the pasta in the pan, add the crumbled feta and mix well. Adjust the taste with more salt and pepper if necessary.",
+          "ingredients": [
+            {
+              "id": 1102047,
+              "name": "salt and pepper",
+              "localizedName": "salt and pepper",
+              "image": "salt-and-pepper.jpg"
+            },
+            {
+              "id": 20420,
+              "name": "pasta",
+              "localizedName": "pasta",
+              "image": "fusilli.jpg"
+            },
+            {
+              "id": 0,
+              "name": "sauce",
+              "localizedName": "sauce",
+              "image": ""
+            },
+            {
+              "id": 1019,
+              "name": "feta cheese",
+              "localizedName": "feta cheese",
+              "image": "feta.png"
+            }
+          ],
+          "equipment": [
+            {
+              "id": 404645,
+              "name": "frying pan",
+              "localizedName": "frying pan",
+              "image": "pan.png"
+            }
+          ]
+        },
+        {
+          "number": 8,
+          "step": "Brush a casserole dish with a little bit of olive oil.",
+          "ingredients": [
+            {
+              "id": 4053,
+              "name": "olive oil",
+              "localizedName": "olive oil",
+              "image": "olive-oil.jpg"
+            }
+          ],
+          "equipment": [
+            {
+              "id": 404635,
+              "name": "casserole dish",
+              "localizedName": "casserole dish",
+              "image": "casserole-dish.png"
+            }
+          ]
+        },
+        {
+          "number": 9,
+          "step": "Transfer the pasta mixture to the casserole dish and sprinkle everything with the grated cheese.",
+          "ingredients": [
+            {
+              "id": 1041009,
+              "name": "cheese",
+              "localizedName": "cheese",
+              "image": "cheddar-cheese.png"
+            },
+            {
+              "id": 20420,
+              "name": "pasta",
+              "localizedName": "pasta",
+              "image": "fusilli.jpg"
+            }
+          ],
+          "equipment": [
+            {
+              "id": 404635,
+              "name": "casserole dish",
+              "localizedName": "casserole dish",
+              "image": "casserole-dish.png"
+            }
+          ]
+        },
+        {
+          "number": 10,
+          "step": "Bake for about 20 minutes or until golden brown and heated through.",
+          "ingredients": [],
+          "equipment": [
+            {
+              "id": 404784,
+              "name": "oven",
+              "localizedName": "oven",
+              "image": "oven.jpg"
+            }
+          ],
+          "length": {
+            "number": 20,
+            "unit": "minutes"
+          }
+        },
+        {
+          "number": 11,
+          "step": "Garnish with some fresh basil if you like and serve.",
+          "ingredients": [
+            {
+              "id": 2044,
+              "name": "fresh basil",
+              "localizedName": "fresh basil",
+              "image": "fresh-basil.jpg"
+            }
+          ],
+          "equipment": []
+        }
+      ]
+    }
+  ],
+  "originalId": null,
+  "spoonacularSourceUrl": "https://spoonacular.com/cheesy-tortellini-casserole-1095873"
+}
